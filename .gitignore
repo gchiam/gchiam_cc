@@ -30,3 +30,6 @@ node_modules/
 
 # Campass
 .sass-cache
+
+# sqlite db
+gchiam_cc/gchiam_cc.db
