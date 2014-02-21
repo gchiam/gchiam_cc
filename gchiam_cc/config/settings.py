@@ -117,7 +117,7 @@ class Common(Configuration):
 
     ########## DATABASE CONFIGURATION
     # See: https://docs.djangoproject.com/en/dev/ref/settings/#databases
-    DATABASES = values.DatabaseURLValue('postgres://localhost/gchiam_cc')
+    DATABASES = values.DatabaseURLValue('sqlite:////%s/gchiam_cc.db' % BASE_DIR)
     ########## END DATABASE CONFIGURATION
 
     ########## CACHING
