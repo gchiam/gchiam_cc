@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath="$PWD/gchiam_cc" config.wsgi:application
