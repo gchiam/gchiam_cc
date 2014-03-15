@@ -11,7 +11,10 @@ LICENSE: BSD
    :alt: Requirements Status
 .. image:: https://drone.io/github.com/gchiam/gchiam_cc/status.png
    :target: https://drone.io/github.com/gchiam/gchiam_cc/latest
-   :alt: Drone Build Status Status
+   :alt: Drone Build Status
+.. image:: https://travis-ci.org/gchiam/gchiam_cc.png?branch=master
+   :target: https://travis-ci.org/gchiam/gchiam_cc
+   :alt: Travis CI Build Status
 
 Settings
 ------------
