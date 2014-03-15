@@ -14,4 +14,4 @@ install:
 #  - pyflakes -x W gchiam_cc
 script:
   - cd gchiam_cc
-  - python setup.py test
+  - python manage.py test
