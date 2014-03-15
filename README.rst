@@ -9,6 +9,9 @@ LICENSE: BSD
 .. image:: https://requires.io/github/gchiam/gchiam_cc/requirements.png?branch=master
    :target: https://requires.io/github/gchiam/gchiam_cc/requirements/?branch=master
    :alt: Requirements Status
+.. image:: https://drone.io/github.com/gchiam/gchiam_cc/status.png
+   :target: https://drone.io/github.com/gchiam/gchiam_cc/latest
+   :alt: Drone Build Status Status
 
 Settings
 ------------
