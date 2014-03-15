@@ -6,6 +6,9 @@ A test project for trying out cookiecutter-django
 
 LICENSE: BSD
 
+[![Requirements
+Status](https://requires.io/github/gchiam/gchiam_cc/requirements.png?branch=master)](https://requires.io/github/gchiam/gchiam_cc/requirements/?branch=master)
+
 Settings
 ------------
 
