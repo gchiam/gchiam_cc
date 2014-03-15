@@ -9,9 +9,9 @@ install:
   - pip install -q --use-mirrors -r requirements/local.txt
   - pip install pep8 --use-mirrors
   - pip install https://github.com/dcramer/pyflakes/tarball/master
-before_script:
-  - "pep8 --exclude=migrations --ignore=E501,E225 gchiam_cc"
-  - pyflakes -x W gchiam_cc
+#before_script:
+#  - "pep8 --exclude=migrations --ignore=E501,E225 gchiam_cc"
+#  - pyflakes -x W gchiam_cc
 script:
   - cd gchiam_cc
   - python setup.py test
